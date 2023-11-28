@@ -1,2 +1,4 @@
-Lesson 1
-HTML Basics
+#Lesson 1
+-Basics of HTML
+-HTML attributes
+-Syntax 
