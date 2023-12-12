@@ -1,0 +1,48 @@
+p,
+input,
+button {
+  font-family: Arial;
+}
+.form-header {
+  font-size: 28px;
+  width: 250px;
+  font-weight: 500;
+}
+input {
+  display: block;
+  width: 310px;
+  margin-bottom: 6px;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  padding-left: 15px;
+  border: none;
+  background-color: rgb(230, 230, 230);
+}
+
+input:focus {
+  outline: none;
+}
+
+.request-button {
+  background-color: black;
+  color: white;
+  border: none;
+  cursor: pointer;
+  padding-left: 16px;
+  padding-right: 16px;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  margin-top: 30px;
+}
+
+.schedule-button {
+  background-color: rgb(230, 230, 230);
+  color: black;
+  border: none;
+  cursor: pointer;
+  padding-left: 16px;
+  padding-right: 16px;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  margin-left: 10px;
+}
