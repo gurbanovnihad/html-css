@@ -1,0 +1,1 @@
+Images and text boxes
