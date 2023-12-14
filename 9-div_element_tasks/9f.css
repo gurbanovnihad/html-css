@@ -1,0 +1,41 @@
+.profile-photo {
+  width: 150px;
+  height: 150px;
+  object-fit: cover;
+  margin-bottom: 2px;
+}
+
+.user-name {
+  margin-top: 0;
+  margin-bottom: 2px;
+  font-weight: bold;
+  margin-left: 10px;
+}
+.user-stat {
+  margin-top: 0;
+  margin-bottom: 10px;
+  margin-left: 10px;
+  font-size: small;
+}
+.add-friend-button {
+  color: white;
+  background-color: rgb(15, 103, 227);
+  border: none;
+  border-radius: 4px;
+  padding-left: 15px;
+  padding-right: 15px;
+  padding-top: 5px;
+  padding-bottom: 5px;
+  cursor: pointer;
+  margin-left: 10px;
+  margin-bottom: 10px;
+}
+
+.add-friend-div {
+  width: 150px;
+  font-family: Arial;
+  box-shadow: 0px 0px 5px rgba(0, 0, 0, 0.3);
+  display: inline-block;
+  margin-right: 7px;
+  vertical-align: top;
+}
