@@ -1,0 +1,21 @@
+.container {
+  width: 300px;
+  height: 65px;
+  display: flex;
+}
+.item1 {
+  background-color: lightpink;
+  width: 100px;
+  display: flex;
+  align-items: center;
+  justify-content: space-evenly;
+}
+.item1-p {
+  background-color: black;
+  color: white;
+  font-size: 20px;
+}
+.item2 {
+  background-color: lightblue;
+  width: 200px;
+}
