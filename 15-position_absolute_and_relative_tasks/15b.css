@@ -1,0 +1,11 @@
+body {
+  height: 3000px;
+}
+.fixed-div {
+  background-color: gray;
+  width: 320px;
+  height: 180px;
+  position: fixed;
+  right: 20px;
+  bottom: 20px;
+}
